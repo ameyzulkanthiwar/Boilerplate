@@ -1,0 +1,9 @@
+.login{
+    background: linear-gradient(to bottom right,  #ff0066 , #0000ff);
+    height:  660px;
+    overflow: hidden !important;
+}
+.errorMsg{
+    margin-top: 10px !important;
+    color: red !important;
+}
